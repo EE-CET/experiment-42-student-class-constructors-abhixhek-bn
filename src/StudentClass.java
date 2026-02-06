@@ -10,7 +10,7 @@ class Student {
 	}
 		
 	void display(){
-	System.out.println("Name= " + name+" Roll: "+rollNo);
+	System.out.println("Name: " + name+" Roll: "+rollNo);
 	}
 }
 		
